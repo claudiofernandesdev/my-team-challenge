@@ -187,4 +187,9 @@ footer p span a {
         width: 100%;
         font-size: 0.65rem;
     }
+
+	footer p,
+	footer span a {
+		font-size: 0.65rem;
+	}
 }
