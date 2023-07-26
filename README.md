@@ -36,7 +36,11 @@
 
 ## Overview
 
+<<<<<<< HEAD
 ![screenshot](./images/desktop-solution.png)
+=======
+![screenshot](./images/desktop-solucion.png)
+>>>>>>> caddd44c5eaf675fda2d38e46d3503718527c431
 ![screenshot](./images/mobile-solution.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
